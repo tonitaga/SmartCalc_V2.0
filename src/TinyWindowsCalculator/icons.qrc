@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>icons/about.ico</file>
+        <file>icons/calculator_ico.rc</file>
+        <file>icons/credit_calc.ico</file>
+        <file>icons/default_calc.ico</file>
+        <file>icons/deposit_calc.ico</file>
+        <file>icons/engineer_calc.ico</file>
+        <file>icons/graph_calc.ico</file>
+        <file>icons/temperature_calc.ico</file>
+        <file>icons/theme.ico</file>
+    </qresource>
+</RCC>
